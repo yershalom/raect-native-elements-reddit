@@ -1,6 +1,6 @@
 # react-native-elements-reddit
 
-## Demo app for reddit with react-native-elements, typescript and react-navigation
+> Demo app for reddit with react-native-elements, typescript and react-navigation
 
 ## Screenshots
 
