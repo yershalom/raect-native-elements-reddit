@@ -8,7 +8,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "react": "16.6.3",
     "react-native": "^0.63.2",
     "react-native-elements": "^1.0.0",
